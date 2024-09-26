@@ -1,0 +1,89 @@
+*{
+margin: 0;
+}
+html{
+height: 150%;
+}
+
+
+
+.homa{
+padding-top: 10px;
+padding-bottom: 10px;
+text-align: center;
+border: solid black;
+position: fixed;
+background-color: white;
+width: 500px;
+left: -2px;
+
+}
+.navbar{
+
+    
+    top: 56px;
+
+    position: fixed;
+    width: 500px;
+}
+.navbar ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+.navbar a{
+
+
+text-decoration: none;
+color: black;
+}
+.navbar li{
+padding-top: 10px;
+padding-bottom: 10px;
+border: 1px  solid;
+border-top: none;
+border-left: none;
+border-bottom:solid 1px;
+border-right: solid 1px;
+}
+.txt{
+
+    background-color: white;
+    margin-left: 500px;
+    height: 150vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+
+.txt h2{
+
+
+text-align: center;
+
+
+
+}
+.txt h3{
+
+text-align: center;
+
+
+
+}
+
+.txtt{
+
+    background-color: white;
+    margin-left: 500px;
+    height: 150vh;
+    display: block;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
